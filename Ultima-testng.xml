@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Framework Task">
+    <test name="KSRTC Automation">
+        <classes>
+            <!--            <class name="com.Automationtion.saucedemoemo.tests.MergeTest">-->
+            <class name="com.Automationtask.saucedemosite.tests.SearchTest">
+                <!--            <class name="com.Automationtion.saucedemoemo.tests.CriticalResultsTest">-->
+
+                <methods>
+                    <!--                    <include name="verifyUserCanBookingInKSRTCT"/>-->
+                    <!--                    <include name="verifyUserCanAddMoreSeats"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
