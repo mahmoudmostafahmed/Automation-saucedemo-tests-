@@ -14,3 +14,5 @@ Adds two products
 Verifies cart
 Checks out with dynamic user data (JSONPlaceholder)
 Verifies purchase completion
+
+##Run PurchaseTest  to show Result
