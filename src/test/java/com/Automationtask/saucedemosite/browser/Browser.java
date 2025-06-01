@@ -6,9 +6,9 @@ import java.awt.datatransfer.UnsupportedFlavorException;
 import java.io.IOException;
 
 public class Browser {
-    public saucedemo ultimaViewer;
+    public saucedemo SauceDemo;
 
     public Browser() throws IOException, UnsupportedFlavorException {
-        ultimaViewer = new saucedemo();
+        SauceDemo = new saucedemo();
     }
 }
