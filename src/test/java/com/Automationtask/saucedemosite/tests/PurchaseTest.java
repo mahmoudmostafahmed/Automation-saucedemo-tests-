@@ -19,7 +19,7 @@ public class PurchaseTest extends BaseTest {
 
     @Test
     public void completePurchaseFlow() throws Exception {
-        // Initialize Page Objects
+        
         LoginPage loginPage = new LoginPage();
         InventoryPage inventoryPage = new InventoryPage();
         ProductPage productPage = new ProductPage();
