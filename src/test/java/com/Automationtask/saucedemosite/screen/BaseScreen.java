@@ -11,7 +11,7 @@ import org.testng.Assert;
 import java.util.List;
 
 public class BaseScreen {
-    protected final WaitUtils waitUtils = new WaitUtils();
+    protected static final WaitUtils waitUtils = new WaitUtils();
     protected Actions actions;
     protected JavascriptExecutor executor;
 
