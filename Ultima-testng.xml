@@ -3,13 +3,8 @@
 <suite name="Automation Framework Task">
     <test name="KSRTC Automation">
         <classes>
-            <!--            <class name="com.Automationtion.saucedemoemo.tests.MergeTest">-->
-            <class name="com.Automationtask.saucedemosite.tests.SearchTest">
-                <!--            <class name="com.Automationtion.saucedemoemo.tests.CriticalResultsTest">-->
-
+            <class name="com.Automationtask.saucedemosite.tests.PurchaseTest">
                 <methods>
-                    <!--                    <include name="verifyUserCanBookingInKSRTCT"/>-->
-                    <!--                    <include name="verifyUserCanAddMoreSeats"/>-->
                 </methods>
             </class>
         </classes>
