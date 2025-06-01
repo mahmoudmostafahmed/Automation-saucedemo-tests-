@@ -9,7 +9,7 @@ public class saucedemo {
     public InventoryPage inventoryPage;
     public ProductPage productPage;
     public CartPage cartPage;
-    public  CheckoutPage CheckoutPage;
+    public  CheckoutPage checkoutPage;
     public  CheckoutCompletePage checkoutCompletePage;
     public  CheckoutOverviewPage CheckoutOverviewPage;
 
@@ -18,7 +18,7 @@ public class saucedemo {
 
     loginPage = new  LoginPage();
     baseScreen = new BaseScreen();
-    CheckoutPage  = new CheckoutPage();
+    checkoutPage  = new CheckoutPage();
     checkoutCompletePage  = new CheckoutCompletePage();
     CheckoutOverviewPage   = new CheckoutOverviewPage();
     inventoryPage = new InventoryPage();
